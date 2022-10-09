@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "deploy:dev": "serverless deploy --stage dev",
+    "remove:dev": "serverless remove --stage dev"
+  },
+  "devDependencies": {
+    "serverless-python-requirements": "^5.4.0",
+    "serverless-wsgi": "^3.0.1"
+  }
+}
