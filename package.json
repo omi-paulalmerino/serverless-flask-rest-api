@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "start": "serverless wsgi serve",
     "deploy:dev": "serverless deploy --stage dev",
     "remove:dev": "serverless remove --stage dev"
   },
