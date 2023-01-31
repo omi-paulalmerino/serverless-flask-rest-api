@@ -3,7 +3,8 @@
 - Git pull
 - CD inside folder
 - Create virtual environment `python -m venv venv`
-- Install requirements `pip install -r requirements.txt`
+- Install Python requirements `pip install -r requirements.txt`
+- Install NodeJS requirements `npm install`
 
 # Running in localhost
 
