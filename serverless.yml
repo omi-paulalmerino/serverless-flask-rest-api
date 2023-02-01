@@ -14,7 +14,7 @@ plugins:
   - serverless-python-requirements
 custom:
   wsgi:
-    app: app.app
+    app: main.app
     packRequirements: false
 functions:
   app:
